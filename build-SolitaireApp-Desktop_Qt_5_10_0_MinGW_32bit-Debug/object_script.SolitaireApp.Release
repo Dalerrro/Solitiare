@@ -1,0 +1,14 @@
+INPUT(
+./release\main.o
+./release\mainwindow.o
+./release\mycards.o
+./release\place.o
+./release\welcomedialog.o
+./release\databasediaglog.o
+./release\qrc_resources.o
+./release\moc_mainwindow.o
+./release\moc_mycards.o
+./release\moc_place.o
+./release\moc_welcomedialog.o
+./release\moc_databasediaglog.o
+);
